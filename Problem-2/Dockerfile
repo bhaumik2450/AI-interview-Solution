@@ -1,0 +1,8 @@
+FROM python:3.8
+ENV CONTAINER_HOME=/var/www
+
+COPY . $CONTAINER_HOME
+WORKDIR $CONTAINER_HOME
+
+RUN pip install -r $CONTAINER_HOME/requirements.txt
+
