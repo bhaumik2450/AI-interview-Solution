@@ -1,7 +1,7 @@
 # LEMAY.AI INTERVIEW ANSWERS
 Hello, 
 
-Your goal is to demonstrate your coding skills by creating a video recording of your answers to some general knowledge questions, writing an ML API demo using Docker, python3, and a bit of magic, and showing us your exploratory data analysis skills. Please spend minimal effort on graphics and UI, as this is not a test of your UI coding skills. Just don't stress on frontend stuff.
+I am attaching answer to interview questions in this repo.
 
 # 1) GENERAL KNOWLEDGE VIDEO DEMONSTRATION AND TECHNICAL WRITING SAMPLE
 - The writing samples is provided as all_recent_publications.pdf file in the repo.
